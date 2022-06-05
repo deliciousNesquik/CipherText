@@ -1,3 +1,8 @@
+#Модуль шифрации и дешифрации
+#Версия 0.4
+#Автор deliciousNesquik
+#Дата создания 05.06.2022
+
 from random import randint
 
 def cipher(input_text: str) -> list:
