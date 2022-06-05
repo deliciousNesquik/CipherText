@@ -1,3 +1,8 @@
+#Программа для шифрации и дешифрации текста
+#Версия 1.0
+#Автор deliciousNesquik
+#Дата создания 05.06.2022
+
 from cipher_moodle import cipher, uncipher
 from pyfiglet import Figlet
 
